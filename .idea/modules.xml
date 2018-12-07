@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elementary-core/elementary-core.iml" filepath="$PROJECT_DIR$/elementary-core/elementary-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elementary-eureka/elementary-eureka.iml" filepath="$PROJECT_DIR$/elementary-eureka/elementary-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elementary-register/elementary-register.iml" filepath="$PROJECT_DIR$/elementary-register/elementary-register.iml" />
+    </modules>
+  </component>
+</project>

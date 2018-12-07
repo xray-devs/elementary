@@ -1,0 +1,17 @@
+mybatis-plus:
+  type-aliases-package: com.elementary.core.modle
+  mapper-locations: classpath:/mapper/*
+  configuration:
+    mapUnderscoreToCamelCase: true
+  type-aliases-super-type:
+server:
+  port: 8082
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+     defaultZone: http://localhost:8761/eureka/
+
+
+
